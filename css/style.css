@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+#icons{
+    display:block;
+
+}
+
+#my-name{
+    font-size:200px;
+    color:blanchedalmond;
+    text-align: center;
+}
+
+#headline{
+    font-size:200px;
+    color:blanchedalmond;
+}
+
+footer{
+    color:blanchedalmond;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
