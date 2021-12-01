@@ -1,9 +1,29 @@
+
+div{
+color:blanchedalmond;
+}
+
+body{
+    background-color: black;
+}
+
 #project-name{
-    font-size: 90px;
+    font-size: 50px;
     color:blanchedalmond;
 }
 
 #technique{
-    font-size: 120px;
+    font-size: 30px;
     color:blanchedalmond;
 }
+
+.resize{
+    width:500px;
+    height:auto;
+    border-radius: 15%;
+}
+
+footer{
+    color:blanchedalmond;
+}
+

@@ -3,22 +3,26 @@ body{
 }
 #icons{
     display:block;
-
 }
 
 #my-name{
     font-size:200px;
     color:blanchedalmond;
     text-align: center;
+    margin:unset;
+
 }
 
 #headline{
-    font-size:200px;
+    font-size:20px;
     color:blanchedalmond;
+    text-align: center;
+    margin: unset;
 }
 
 footer{
     color:blanchedalmond;
+    margin-top:230px;
 }
 
 
@@ -27,10 +31,13 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    margin-bottom: 140px;
+    margin-left:1100px;
+    
   }
   
   li {
-    float: right;
+    float: left;
   }
   
   li a {
@@ -40,3 +47,19 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
+
+ a:hover{
+     position: relative;
+     display: inline-block;
+     overflow: hidden;
+     background: linear-gradient(to right, midnightblue, midnightblue 50%, royalblue 50%);
+     background-clip: text;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-size: 200% 100%;
+     background-position: 100%;
+     transition: background-position 275ms ease;
+     text-decoration: none; 
+    
+     }
+ 
