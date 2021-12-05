@@ -1,4 +1,19 @@
 body{
-    background-color: black;
-    color:blanchedalmond;
+    background-color: blanchedalmond;
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    flex:auto;
+}
+
+#ins{
+    margin-top: 130px;
+    max-width: 5%;
+    height: auto;
+}
+
+#mail{
+    margin-top: 60px;
+    max-width:3%;
+    height: auto;
 }
