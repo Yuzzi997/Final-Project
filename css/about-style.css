@@ -1,10 +1,14 @@
 body{
-    background-color: black;
+    background-color:black;
+    text-align: center;
 }
-    
-    
+
+header{
+    color:blanchedalmond;
+    font-size:90px;
+}
     
 p{
     color:blanchedalmond;
-    font-size:60px;
+    font-size:40px;
 }

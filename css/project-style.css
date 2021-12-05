@@ -1,6 +1,11 @@
 
 div{
 color:blanchedalmond;
+text-align: center;
+}
+
+p{
+text-align: center;
 }
 
 body{
@@ -18,7 +23,7 @@ body{
 }
 
 .resize{
-    width:500px;
+    width:400px;
     height:auto;
     border-radius: 15%;
 }
@@ -27,3 +32,15 @@ footer{
     color:blanchedalmond;
 }
 
+  
+li {
+    float: left;
+    margin-top:10px;
+    margin-right:60px;
+  }
+
+h2{
+    color:blanchedalmond;
+    text-align: center;
+    font-size:80px;
+}
