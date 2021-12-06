@@ -1,7 +1,6 @@
 body{
     background-color: blanchedalmond;
     color:black;
-    text-align: center;
     font-size: 30px;
     flex:auto;
 }
@@ -16,4 +15,13 @@ body{
     margin-top: 60px;
     max-width:3%;
     height: auto;
+}
+
+#home{
+    width:20px;
+    height:auto;
+}
+
+#list{
+    text-align: center;
 }

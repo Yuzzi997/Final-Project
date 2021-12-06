@@ -1,14 +1,21 @@
 body{
     background-color:black;
-    text-align: center;
 }
 
 header{
     color:blanchedalmond;
     font-size:90px;
+    text-align: center;
 }
     
 p{
     color:blanchedalmond;
     font-size:40px;
+    text-align: center;
+}
+
+
+#home{
+    width:20px;
+    height:auto;
 }

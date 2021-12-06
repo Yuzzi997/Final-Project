@@ -22,9 +22,8 @@ body{
 
 footer{
     color:blanchedalmond;
-    margin-top:230px;
+    margin-top:210px;
 }
-
 
 ul {
     list-style-type: none;
@@ -48,6 +47,11 @@ ul {
     text-decoration: none;
   }
 
+  #home{
+    width:20px;
+    height:auto;
+}
+
  a:hover{
      position: relative;
      display: inline-block;
@@ -60,6 +64,5 @@ ul {
      background-position: 100%;
      transition: background-position 275ms ease;
      text-decoration: none; 
-    
      }
  
