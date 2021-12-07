@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+li {
+
+    margin-top:220px;
+    margin-left:180px;
+    display:inline;
+  }
+
+
+  ul{
+    overflow:hidden;
+    }
+
+#resize{
+    margin-top: 100px;
+    width: 30%;
+    height:auto;
+    border-radius: 10%;
+}
+
+p{
+    color:blanchedalmond;
+    text-align: center;
+}
+
+
+.text{
+    color:blanchedalmond;
+    text-align: center;
+}
+
+a:hover{
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    background: linear-gradient(to right, midnightblue, midnightblue 50%, royalblue 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 275ms ease;
+    text-decoration: none; 
+    }
